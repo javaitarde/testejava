@@ -6,6 +6,7 @@ echo ========================================
 
 javac -Xlint torneio.java
 javac -Xlint scan.java
+javac -Xlint cadastro.java
 
 
 echo.
